@@ -1,0 +1,15 @@
+{
+    "name": "cronometronk",
+    "version": "0.0.1",
+    "description": "Componente con: hora local, cronómetro, cuenta atras",
+    "keywords": [
+        "hora", "timer", "cronometro", "cuenta", "reloj"
+    ],
+    "peerDependencies": {
+        "@angular/common": "^11.0.9",
+        "@angular/core": "^11.0.9"
+    },
+    "dependencies": {
+        "tslib": "^2.0.0"
+    }
+}
