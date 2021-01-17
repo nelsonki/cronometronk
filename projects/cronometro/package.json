@@ -1,11 +1,23 @@
 {
     "name": "cronometronk",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Componente con: hora local, cronómetro, cuenta atras",
     "keywords": [
         "hora", "timer", "cronometro", "cuenta", "reloj"
+
     ],
-    "peerDependencies": {
+    "homepage": "https://github.com/nelsonki/cronometronk/#readme",
+    "bugs": {
+        "url": "https://github.com/nelsonki/cronometronk/issues",
+        "email": "rolavetadiuc@gmail.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Nelson Quiñonez",
+        "email": "rolavetadiuc@gmail.com",
+        "url": "https://github.com/nelsonki"
+    },
+    "peerDependencies ": {
         "@angular/common": "^11.0.9",
         "@angular/core": "^11.0.9"
     },

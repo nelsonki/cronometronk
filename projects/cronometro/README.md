@@ -4,8 +4,9 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Code scaffolding
 
-Run `ng generate component component-name --project cronometro` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project cronometro`.
-> Note: Don't forget to add `--project cronometro` or else it will be added to the default project in your `angular.json` file. 
+Run `npm install cronometronk`
+
+> Note: para implementar la libreria en el HTML usar: `<nk-cronometro></nk-cronometro>` 
 
 ## Build
 
